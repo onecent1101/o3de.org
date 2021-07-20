@@ -1,0 +1,39 @@
+---
+linkTitle: Blog Posts
+title: Why We Want to Write a Blog Post for o3de.org
+description: Why create and publish a blog post for display and sharing on o3de.org.
+toc: true
+weight: 600
+---
+
+Blog posts are an important and semi-formal way to deliver announcements, insights, learnings, and professional opinions for the O3DE org and the greater public. Part of growing as a community is establishing a strong blog presence, and we'd love for you to contribute! Here's Why.
+
+## What We Do Matters
+
+We at the Open Source 3D engine team believe that open source is the future of software development because it democratizes the engine development process and gives users the ability to enhance the Open Source 3D engine in the way that best suits their needs, and one of the main goals of the O3DE project is to encourage collaboration, create transparency, and build trust with the community.
+
+We have taken that first crucial step. However, there is still a lot of work left to do in building that trust and to achieve this will require everyone to pitch in. This is because the vast diaspora of the open source community are either unaware of the O3DE project, or are unsure of our commitment, and we must show them the way. 
+
+What is most needed at this stage is to share what we’re doing publicly. This includes technical blogs that show the tools we are building to expand the engine’s capability and the processes that will support these efforts, or sharing the community’s day to day experiences in using O3DE. We must show the world that we are committed to the success of O3DE and the actions that we are undertaking to achieve this goal. 
+
+The launch of O3DE has reinforced our belief on this. The level of community feedback, and participation in few weeks since the launch has been very encouraging, both from our partners and the public, and this is due to the efforts of the team in communicating our vision to the community and on our work to make Open Source 3D engine a reality. 
+
+Now, we want to take this to the next level. We want to open the contributor doors to everyone and help spread our message of working together in building a free and powerful open source engine for all. We want to let the community know that they can write about their experiences in working with O3DE, or document any issues that they might have encountered and share their insight with the world. 
+
+Together, let us reinvent software development! 
+
+## Rules Of The Road
+
+Before the community begins to pitch in and send us their articles, we will need to establish hand rails to help guide them through the contribution process. The following outline will provide a starting point for the management council to discuss it further in detail. 
+
+## Contributor Submission Process 
+
+Anyone who wishes to submit an article can create a blog post following the established docs contribution process and submitting a PR with the post as a Markdown file under https://github.com/o3de/o3de.org/content/blogs/posts (https://github.com/o3de/o3de.org/tree/main/content/blog/posts). Once the PR is ready, please share it in Discord, to the sig-docs-community mailing list, and/or submissions@o3de.org for review, approval, and publishing. 
+
+## Contributor Review Process
+
+Each sig group will be responsible in reviewing written submissions in their respective charter areas, i.e. topics on O3DE build related articles will be reviewed by sig-build, and network related topics will be reviewed by Sig-network, etc.  
+
+## Helpful Resources
+
+For more information on how to submit a blog post for o3de.org, see https://github.com/o3de/o3de.org/pull/749 for details. 
